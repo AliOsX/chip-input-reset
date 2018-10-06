@@ -1,0 +1,33 @@
+chip-input-reset (0.5) unstable; urgency=low
+
+  * Increment for pocketchip compatibility.
+
+ -- Ben Young <software@nextthing.co>  Thu, 05 May 2016 19:57:24 -0800
+
+
+chip-input-reset (0.4) unstable; urgency=low
+
+  * Removed setx for stealth mode.
+
+ -- Ben Young <software@nextthing.co>  Fri, 04 Dec 2015 10:25:24 -0800
+
+
+chip-input-reset (0.3) unstable; urgency=low
+
+  * Added exit code and removed time logging
+
+ -- Ben Young <software@nextthing.co>  Thu, 03 Dec 2015 10:56:24 -0800
+
+
+chip-input-reset (0.2) unstable; urgency=low
+
+  * Removed rc.local compatibility to address initial boot time issue.
+
+ -- Ben Young <software@nextthing.co>  Wed, 02 Dec 2015 17:21:24 -0800
+
+
+chip-input-reset (0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Ben Young <software@nextthing.co>  Wed, 02 Dec 2015 10:37:24 -0800
